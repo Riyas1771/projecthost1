@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #2F1893;
+    font-family:'Poppins', sans-serif;
+    box-sizing: border-box;
+
+} 
+.container{
+    width:100%;
+    margin: 0px;
+}
+#overview{
+    color: #999;
+}
+nav{
+    width: 118%;
+    margin: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 147px;
+    color: white;
+
+}
+.logo{
+    font-size: 25px;
+}
+nav ul{
+    list-style: none;
+    width: 100%;
+    text-align: right;
+    padding: 30px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0px 20px;
+    
+}
+.left{
+    color: white;
+    float: left;
+    
+    width: 40%;
+    margin: 15px 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 60px;
+    padding-left: 200px;
+
+}
+ #rh1{
+    font-size: 40px;
+    background-color: #fff;
+    
+}
+#lh1{
+    font-size: 40px;
+    
+}
+#form{
+    background-color: #fff;
+}
+
+
+.btn{
+    color:white;
+    display: flex;
+    margin-bottom: 2%;
+    padding: 10px 20px;
+    border: px;
+    outline: 50px;
+    border-radius: 20px;
+    background: rgb(255, 35, 141);
+    font-weight: 545;
+    cursor:pointer;
+}
+.btn2{
+    color:white;
+    margin-top: 10%;
+    display: flex;
+    padding: 10px 20px;
+    border: 0px;
+    outline: 50px;
+    border-radius: 20px;
+    background: rgb(255, 35, 141);
+    font-weight: 545;
+    
+   
+}
+.right{
+   width: 40%;
+   float: right;
+   margin: 0px; 
+
+}
+.sigup-forum{
+    
+    border-radius: 10px;
+    width: 344px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 30px;
+    margin-top: 30px;
+    margin-right: 180px;
+    text-align: center;
+}
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+    background-color: #fff;
+
+}
+#checkbox{
+    background-color: #fff;
+}
+#lastp{
+    background-color: #fff;
+}
+.signup-btn{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px  0;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    background-color:  #2F1893;
+}
+.signtwitter-btn{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px  0;
+    border:none;
+    outline: none;
+    cursor: pointer;
+    background-color: #21afde
+
+}
+a{
+    text-decoration: none;
+
+}
+hr{
+    margin: 20px;
+    width: 80%;
+}
+.or{
+    background:#fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
